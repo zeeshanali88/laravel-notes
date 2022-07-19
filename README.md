@@ -7,5 +7,6 @@
     <li>sail up</li>
     <li>sail artisan migrate</li>
     <li>sail artisan db:seed</li>
+    <li>npm run dev</li>
 </ul>
 <p>After creating seeder go to http://127.0.0.1. Then you will be redirected to login page. You can get email from database and password is "password" for all users. There you will see logged-in user notes with pagination</p>
